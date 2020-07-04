@@ -1,0 +1,23 @@
+{
+  "name": "electron-news",
+  "version": "1.0.0",
+  "description": "## Steps to set up project 1. ```npm init -y``` 2. ```npm install electron``` 3. develop ($main).js and ($index).html",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuyannus/electron-news.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuyannus/electron-news/issues"
+  },
+  "homepage": "https://github.com/xuyannus/electron-news#readme",
+  "dependencies": {
+    "electron": "^9.0.5"
+  }
+}
